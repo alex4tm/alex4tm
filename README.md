@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex4tm&label=Profile%20views&color=0e75b6&style=flat" alt="alex4tm" /> </p>
 
-- 🌱 I’m currently building my portofolio website
+<!-- - 🌱 I’m currently building my portofolio website -->
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
